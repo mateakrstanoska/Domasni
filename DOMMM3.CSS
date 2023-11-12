@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(230, 12, 12);
+    background-image: url(slika.jpg);
+    background-repeat: no-repeat;
+    background-position: relative;
+    top: 10px;
+    left: -10px;
+}
+#startButton{
+    background-color: rgba(128, 255, 0, 0.749);
+}
